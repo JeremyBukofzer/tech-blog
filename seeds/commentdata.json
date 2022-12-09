@@ -1,7 +1,7 @@
 [
     {
         "blog_id": 1,
-        "comment_description": "Cpmment goes here: Test",
+        "comment_description": "Comment goes here: Test",
         "User_id": 1
     }
 ]
